@@ -13,6 +13,7 @@
 ### 1. Clone the repo
 
 git clone https://github.com/Ade-nahuelpan/notifyer-backend.git
+
 cd notifyer-backend
 
 ### 2. Install dependencies
@@ -66,7 +67,7 @@ You can also enable "format on save" in VS Code:
 .vscode/settings.json:
 {
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.tabSize": 2
 }
 
 ---
